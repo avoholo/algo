@@ -1,4 +1,3 @@
 import StringMethodsTest
 
-test = StringMethodsTest.StringMethodsTest()
-test.longestCommonPrefixTest()
+StringMethodsTest.StringMethodsTest().longestCommonPrefixTest()
